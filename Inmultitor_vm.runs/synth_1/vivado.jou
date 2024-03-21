@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Jan 18 16:47:39 2023
+# Process ID: 5176
+# Current directory: C:/Users/Rafael/Desktop/SSC_trec/Inmultitor_somehow/Inmultitor_somehow.runs/synth_1
+# Command line: vivado.exe -log FPU.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FPU.tcl
+# Log file: C:/Users/Rafael/Desktop/SSC_trec/Inmultitor_somehow/Inmultitor_somehow.runs/synth_1/FPU.vds
+# Journal file: C:/Users/Rafael/Desktop/SSC_trec/Inmultitor_somehow/Inmultitor_somehow.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source FPU.tcl -notrace
